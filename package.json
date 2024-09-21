@@ -40,7 +40,7 @@
     "chokidar": "^3.6.0",
     "compression": "^1.7.4",
     "cross-env": "^7.0.3",
-    "express": "^4.19.2",
+    "express": "^4.21.0",
     "isbot": "^4.4.0",
     "morgan": "^1.10.0",
     "prom-client": "^15.1.2",
